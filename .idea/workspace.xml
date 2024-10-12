@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="542370da-7395-4769-83b6-03d60dfcfcf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RandomBackend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayerGeneratorTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayerTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pair/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/pair/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/dto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/dto/player_dto_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/dto/player_dto_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/model/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/repository/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/repository/playerRepository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/player/service/playerService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/routers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/routers/pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/routers/player.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lCmaHUfjGK5Glw5sA1OuFbbuE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for PlayerGeneratorTest.MyTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_creation_pairs_of_four_players_produceses_list_with_len_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_len_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_unique_pairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for PlayerTest.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for listTest.MyTestCase.test_something.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PlayerGeneratorTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in PlayerTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.depositController.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\astonuser\PycharmProjects\RandomBackend\main\routers" />
+      <recent name="C:\Users\astonuser\PycharmProjects\RandomBackend\main\pairGenerator" />
+      <recent name="C:\Users\astonuser\PycharmProjects\RandomBackend\main\player" />
+      <recent name="C:\Users\astonuser\PycharmProjects\RandomBackend\main" />
+      <recent name="C:\Users\astonuser\PycharmProjects\RandomBackend\player" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for PlayerGeneratorTest.MyTestCase">
+    <configuration name="Python tests for PlayerGeneratorTest.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RandomBackend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PlayerGeneratorTest.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PlayerGeneratorTest.MyTestCase.test_creation_pairs_of_four_players_produceses_list_with_len_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RandomBackend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PlayerGeneratorTest.MyTestCase.test_creation_pairs_of_four_players_produceses_list_with_len_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_len_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RandomBackend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_len_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_unique_pairs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RandomBackend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_unique_pairs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in PlayerGeneratorTest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="RandomBackend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/PlayerGeneratorTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for PlayerGeneratorTest.MyTestCase" />
+        <item itemvalue="Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_unique_pairs" />
+        <item itemvalue="Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_four_players_produceses_list_with_len_2" />
+        <item itemvalue="Python tests.Python tests in PlayerGeneratorTest.py" />
+        <item itemvalue="Python tests.Python tests for PlayerGeneratorTest.MyTestCase.test_creation_pairs_of_four_players_produceses_list_with_len_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="542370da-7395-4769-83b6-03d60dfcfcf0" name="Changes" comment="" />
+      <created>1724692494772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724692494772</updated>
+    </task>
+    <servers />
+  </component>
+</project>
